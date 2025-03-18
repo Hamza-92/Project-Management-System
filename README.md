@@ -20,7 +20,7 @@ Library Management System/
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/project-management-system.git
+    git clone https://github.com/Hamza-92/Project-Management-System.git
     ```
 2. Open the solution file in Visual Studio.
 3. **Configure the Database:**
