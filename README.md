@@ -41,7 +41,7 @@ Contributions are welcome. Before submitting a pull request, please read the [CO
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](LICENSE.txt).
 
 ## Contact
 
