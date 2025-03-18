@@ -2,14 +2,19 @@
 
 ## Overview
 
-The Project Management System is a Windows Forms application designed to help teams and individuals manage their projects efficiently. It provides tools for task tracking, team collaboration, and project progress monitoring.
+The Project Management System is a Windows Forms application designed to help teams and individuals manage their projects efficiently. It adheres to a 3-layer architecture, ensuring separation of concerns and maintainability. The application integrates seamlessly with SQL Server for reliable data storage and retrieval.
 
-## Features
-
-- **Task Management**: Create, update, and delete tasks with ease.
-- **Team Collaboration**: Assign tasks to team members and track their progress.
-- **Project Tracking**: Monitor project milestones and deadlines.
-- **User-Friendly Interface**: Intuitive design for seamless navigation.
+## Project Structure
+```
+Library Management System/
+│-- Project Management System/  # Windows Forms application
+│-- Data Access Layer/          # Handles all database operations
+│-- Business Logic Layer/       # Business logic for book management
+│-- Presentation Layer/         # UI implementation with Windows Forms
+│-- .github/                    # GitHub-related files
+│-- README.md                   # Project documentation
+│-- CONTRIBUTING.md             # Contribution guidelines
+```
 
 ## Installation
 
